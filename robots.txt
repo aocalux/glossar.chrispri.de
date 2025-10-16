@@ -1,4 +1,4 @@
-# This robots.txt file controls crawling of URLs under https://service.chrispri.de.
+# This robots.txt file controls crawling of URLs under https://glossar.chrispri.de.
 User-agent: *
 Disallow: /geraete/
 Disallow: /go/
@@ -6,7 +6,9 @@ Disallow: /404.html
 Disallow: /impressum/
 Disallow: /README.md
 Disallow: /admin/
-Disallow: /style/fonts
+Disallow: /style/
+Disallow: /script/
+Disallow: /popup/
 Disallow: /dateien/disallow/
 Disallow: /index-full.html
 Disallow: /z_musterordner/

@@ -1,0 +1,17 @@
+body {
+    font-size: larger;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+tr, td, th {
+    padding: 2px;
+  border: 1px solid black;
+}
+
+th {
+    text-align: left;
+}
